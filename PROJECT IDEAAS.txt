@@ -1,0 +1,16 @@
+ripen and unripen fruits classification
+
+speech emotion recognization
+
+video survillaince system
+
+parkinso's disease
+
+chatbot
+
+handwritten image recognization
+
+https://colab.research.google.com/drive/1SLzWQqX67sFLMExYYlZDyCp_SAN64NCI#scrollTo=GhF_y_gfmWFB
+
+
+https://colab.research.google.com/drive/1r-FkHk_2qh-YQRXfoqzZbXm2e4ICbyVX#scrollTo=E0ps8YF7_dmj
